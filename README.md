@@ -35,3 +35,6 @@ Power BI | SQL | Looker Studio | Tableau | Excel | GA4
 3. Account Health — per-account scorecard
 4. Pipeline Tracker — booking and revenue trends
 5. Customer Behaviour — funnel and drop-off analysis
+
+6. ![Dashboard Preview](dashboard_preview.png)
+
