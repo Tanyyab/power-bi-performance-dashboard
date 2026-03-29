@@ -36,5 +36,5 @@ Power BI | SQL | Looker Studio | Tableau | Excel | GA4
 4. Pipeline Tracker — booking and revenue trends
 5. Customer Behaviour — funnel and drop-off analysis
 
-6. ![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Screenshot%202026-03-29%20210553.png)
 
